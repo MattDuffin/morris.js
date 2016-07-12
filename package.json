@@ -1,9 +1,10 @@
 {
-  "name": "morris.js",
+  "name": "morris",
   "version": "0.5.1",
   "homepage": "http://morrisjs.github.com/morris.js",
   "license": "BSD-2-Clause",
   "description": "Easy, pretty charts",
+  "main": "morris.js",
   "author": {
     "name": "Olly Smith",
     "email": "olly@oesmith.co.uk"
